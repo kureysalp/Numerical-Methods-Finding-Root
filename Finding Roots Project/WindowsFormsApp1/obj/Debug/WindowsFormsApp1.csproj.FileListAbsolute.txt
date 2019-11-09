@@ -1,0 +1,10 @@
+C:\Users\kurey\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\kurey\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\kurey\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\kurey\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\kurey\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Finding Roots.exe.config
+C:\Users\kurey\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Finding Roots.exe
+C:\Users\kurey\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Finding Roots.pdb
+C:\Users\kurey\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\FindingRoots.Properties.Resources.resources
+C:\Users\kurey\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Finding Roots.exe
+C:\Users\kurey\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Finding Roots.pdb
